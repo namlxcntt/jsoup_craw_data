@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "524170910112",
+    "firebase_url": "https://toeic-4u-default-rtdb.firebaseio.com",
+    "project_id": "toeic-4u",
+    "storage_bucket": "toeic-4u.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524170910112:android:42d1adbd054568512b2cc5",
+        "android_client_info": {
+          "package_name": "com.lxn.appuploaddata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524170910112-c1g1l3qo5a2rtgbh59ftevu9348i2mnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lxn.appuploaddata",
+            "certificate_hash": "a0a582aec83ca8420d4e96074d450950c1ff5721"
+          }
+        },
+        {
+          "client_id": "524170910112-sp65slsgibhjnhrglj0srhrkrtp0b0jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu_zrGhmFzcQOPZjH4bYQ3Kq9IkeZR4j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524170910112-sp65slsgibhjnhrglj0srhrkrtp0b0jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524170910112:android:15237e8594e948932b2cc5",
+        "android_client_info": {
+          "package_name": "com.lxn.toeic4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524170910112-1fitgcp9pi3km7ru8s736i3bm5l6ra9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lxn.toeic4u",
+            "certificate_hash": "d7b66ef47963f8c353610ab21d22512dcb1551e3"
+          }
+        },
+        {
+          "client_id": "524170910112-n3d3q8uil8fmuvpr2b0s7srjd0cakcjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lxn.toeic4u",
+            "certificate_hash": "f191ba1d1ea92325f18a4d1e392eafcf7ff5f49e"
+          }
+        },
+        {
+          "client_id": "524170910112-uo3ornrt60gjppu89rr6h569grmq5lle.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lxn.toeic4u",
+            "certificate_hash": "39631a31a03ffd9332bf651dbd3cc9fec22c6d7a"
+          }
+        },
+        {
+          "client_id": "524170910112-sp65slsgibhjnhrglj0srhrkrtp0b0jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu_zrGhmFzcQOPZjH4bYQ3Kq9IkeZR4j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524170910112-sp65slsgibhjnhrglj0srhrkrtp0b0jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

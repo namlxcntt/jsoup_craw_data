@@ -13,11 +13,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
-        public class ParsingXML {
-            public static void main(String[] args) throws Exception {
-                System.setProperty("http.agent", "Chrome");
-                List<String> listData = getLinkVocabulary("https://tienganhmoingay.com/600-tu-vung-toeic/chu-de-business-planning/");
-                listData.forEach(ParsingXML::downloadImage);
+public class ParsingXML {
+    public static void main(String[] args) throws Exception {
+        System.setProperty("http.agent", "Chrome");
+        List<String> listData = getLinkVocabulary("https://tienganhmoingay.com/600-tu-vung-toeic/chu-de-business-planning/");
+        listData.forEach(ParsingXML::downloadImage);
     }
 
     static List<String> getLinkVocabulary(String url) throws Exception {
